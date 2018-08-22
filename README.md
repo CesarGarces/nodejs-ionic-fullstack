@@ -1,7 +1,7 @@
 $npm install
 run mongod
-start backend =>  
+backend =>  
 $ npm start
-start frontend ionic =>
+frontend ionic =>
 $ cd app 
 $ ionic serve
