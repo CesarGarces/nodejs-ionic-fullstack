@@ -1,3 +1,4 @@
+$npm install
 run mongod
 start backend =>  
 $ npm start
